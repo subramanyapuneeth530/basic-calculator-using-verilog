@@ -53,3 +53,8 @@ Assume:
 A  = 5'sd10;   // decimal 10
 B  = 5'sd2;    // decimal 2
 a_s = 2'b11;   // division
+```
+Result:
+```output
+result = A / B = 10 / 2 = 5
+```
