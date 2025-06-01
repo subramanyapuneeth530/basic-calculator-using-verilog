@@ -39,7 +39,7 @@ The waveform confirms correct operation across all arithmetic instructions and p
 
 ![My Project Logo](Results/schematic.png)
 
-https://github.com/subramanyapuneeth530/basic-calculator-using-verilog/blob/main/Results/schematic.png
+![Screenshot 2025-06-02 004102](https://github.com/subramanyapuneeth530/basic-calculator-using-verilog/blob/main/Results/schematic.png)
 
 ### Description
 
@@ -98,3 +98,6 @@ The selection is driven by `a_s[1:0]`.
 ## 💬 Want to Contribute?
 
 Feel free to suggest improvements or add new features (e.g., modulo, bitwise ops). Fork and PR welcome!
+
+
+![Screenshot 2025-06-02 004102](https://github.com/user-attachments/assets/2a57ec16-de64-431f-8743-79e81b4edb23)
