@@ -73,29 +73,4 @@ The selection is driven by `a_s[1:0]`.
 - 🔀 The conditional logic for **safe division** is visible using `RTL_EQ` and `MUX` to handle divide-by-zero.
 - 🧩 The waveform and schematic together validate both **functional correctness** and **synthesizable structure**.
 
----
 
-## 🗂️ File References
-
-| File                        | Description                    |
-|-----------------------------|--------------------------------|
-| `../src/design_file.v`      | Verilog ALU design (test1)     |
-| `../tb/design_file_tb.v`    | Testbench with test cases      |
-| `simulation_waveform.png`   | GTKWave or ModelSim output     |
-| `rtl_schematic.png`         | RTL-level view post synthesis  |
-
----
-
-## 📷 Image Credits
-
-- **Simulation waveform**: Captured from `GTKWave`
-- **Schematic**: Exported from RTL synthesis in Vivado
-
----
-
-## 💬 Want to Contribute?
-
-Feel free to suggest improvements or add new features (e.g., modulo, bitwise ops). Fork and PR welcome!
-
-
-![Screenshot 2025-06-02 004102](https://github.com/user-attachments/assets/2a57ec16-de64-431f-8743-79e81b4edb23)
