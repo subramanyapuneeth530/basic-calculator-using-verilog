@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module test1_tb;
+module design_file_tb;
 
     // Inputs
     reg signed [4:0] A, B;
@@ -10,7 +10,7 @@ module test1_tb;
     wire signed [8:0] result;
 
     // Instantiate the DUT
-    test1 uut (
+    design_file uut (
         .A(A),
         .B(B),
         .a_s(a_s),
