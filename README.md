@@ -53,7 +53,7 @@ The project is modularly organized into:
 ```
 .
 ├── src/
-│ ├── design_file.v # Main ALU design module (test1)
+│ ├── design_file.v # Main ALU design module 
 │ └── README.md # Design-specific documentation
 │
 ├── tb/
