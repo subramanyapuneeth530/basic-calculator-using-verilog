@@ -1,4 +1,4 @@
-module test1(
+module design_file(
     input signed [4:0] A,           // 5-bit signed input (-16 to +15)
     input signed [4:0] B,           // 5-bit signed input
     input [1:0] a_s,                // 00 = add, 01 = sub, 10 = mul, 11 = div
