@@ -37,7 +37,7 @@ The waveform confirms correct operation across all arithmetic instructions and p
 
 ## 🔩 RTL Schematic View
 
-![RTL Schematic](../path/to/rtl_schematic.png)
+![RTL Schematic](Results/schematic.png)
 
 ### Description
 
