@@ -52,7 +52,3 @@ A = 5'sd8;   B = 5'sd4;   // 8 / 4 = 2
 A = -5'sd8;  B = 5'sd2;   // -8 / 2 = -4
 A = 5'sd7;   B = 5'sd0;   // 7 / 0 = 0 (safe division)
 ```
-
-
-![Screenshot 2025-06-02 003204](https://github.com/user-attachments/assets/05eb0858-9996-4141-8149-8bfdb39b7b09)
-
