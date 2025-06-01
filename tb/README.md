@@ -29,7 +29,6 @@ This testbench verifies the functionality of the `test1` Verilog module, which p
 ## 🧪 Operations Tested
 
 ### ➕ Addition (`a_s = 2'b00`)
-
 '''verilog
 A = 5'sd8;   B = 5'sd7;   // 8 + 7 = 15
 A = -5'sd10; B = 5'sd5;   // -10 + 5 = -5
