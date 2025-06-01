@@ -29,6 +29,23 @@ This testbench verifies the functionality of the `test1` Verilog module, which p
 ## 🧪 Operations Tested
 
 ### ➕ Addition (`a_s = 2'b00`)
-```verilog
+
+'''verilog
 A = 5'sd8;   B = 5'sd7;   // 8 + 7 = 15
 A = -5'sd10; B = 5'sd5;   // -10 + 5 = -5
+
+### ➕ Subtraction (`a_s = 2'b00`)
+
+A = 5'sd10;  B = 5'sd3;   // 10 - 3 = 7
+A = -5'sd8;  B = -5'sd4;  // -8 - (-4) = -4
+
+### ➕ Multiplication (`a_s = 2'b00`)
+
+A = 5'sd4;   B = 5'sd3;   // 4 * 3 = 12
+A = -5'sd6;  B = 5'sd2;   // -6 * 2 = -12
+
+### ➕ Division (`a_s = 2'b00`)
+
+A = 5'sd8;   B = 5'sd4;   // 8 / 4 = 2
+A = -5'sd8;  B = 5'sd2;   // -8 / 2 = -4
+A = 5'sd7;   B = 5'sd0;   // 7 / 0 = 0 (safe division)
