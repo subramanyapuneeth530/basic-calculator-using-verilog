@@ -4,7 +4,7 @@ This testbench verifies the functionality of the `test1` Verilog module, which p
 
 ---
 
-## 📄 File: `test1_tb.v`
+## 📄 File: `design_file_tb.v`
 
 ### ✅ Purpose
 
