@@ -37,7 +37,9 @@ The waveform confirms correct operation across all arithmetic instructions and p
 
 ## 🔩 RTL Schematic View
 
-![RTL Schematic](basic-calculator-using-verilog/Results/schematic.png)
+![My Project Logo](Results/schematic.png)
+
+https://github.com/subramanyapuneeth530/basic-calculator-using-verilog/blob/main/Results/schematic.png
 
 ### Description
 
