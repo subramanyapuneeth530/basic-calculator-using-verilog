@@ -51,5 +51,8 @@ A = -5'sd6;  B = 5'sd2;   // -6 * 2 = -12
 A = 5'sd8;   B = 5'sd4;   // 8 / 4 = 2
 A = -5'sd8;  B = 5'sd2;   // -8 / 2 = -4
 A = 5'sd7;   B = 5'sd0;   // 7 / 0 = 0 (safe division)
-```![Screenshot 2025-06-02 003204](https://github.com/user-attachments/assets/63eb9200-d166-434e-aa61-5d30792b3da0)
+```
+
+
+![Screenshot 2025-06-02 003204](https://github.com/user-attachments/assets/05eb0858-9996-4141-8149-8bfdb39b7b09)
 
