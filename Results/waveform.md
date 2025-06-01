@@ -6,7 +6,7 @@ This document provides a detailed explanation of the **simulation waveform** and
 
 ## 🟢 Simulation Waveform (Testbench Output)
 
-![Simulation Waveform](../path/to/simulation_waveform.png)
+![Simulation Waveform](https://github.com/subramanyapuneeth530/basic-calculator-using-verilog/blob/main/Results/wavform.png)
 
 ### Description
 
