@@ -1,4 +1,4 @@
-# Arithmetic Logic Unit (ALU) - `test1`
+# Arithmetic Logic Unit (ALU) - `design_file`
 
 ## Overview
 
