@@ -56,5 +56,5 @@ a_s = 2'b11;   // division
 ```
 Result:
 ```output
-result = A / B = 10 / 2 = 5
+Output : A / B = 10 / 2 = 5
 ```
