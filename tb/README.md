@@ -1,6 +1,6 @@
-# 🧪 Testbench for `test1` ALU Module
+# 🧪 Testbench for `design_file` ALU Module
 
-This testbench verifies the functionality of the `test1` Verilog module, which performs signed arithmetic operations (addition, subtraction, multiplication, and safe division) on two 5-bit inputs.
+This testbench verifies the functionality of the `design_file` Verilog module, which performs signed arithmetic operations (addition, subtraction, multiplication, and safe division) on two 5-bit inputs.
 
 ---
 
