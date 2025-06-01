@@ -50,7 +50,7 @@ The project is modularly organized into:
 ---
 
 ## 📂 Folder Structure
-
+```
 .
 ├── src/
 │ ├── design_file.v # Main ALU design module (test1)
